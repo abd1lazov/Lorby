@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360218608371",
+    "project_id": "lorby-493e4",
+    "storage_bucket": "lorby-493e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360218608371:android:55c57dd01a74cd50996d86",
+        "android_client_info": {
+          "package_name": "com.example.lorby"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn3Qaw1K60ElbpzRpEeSldiLiF16yXgYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

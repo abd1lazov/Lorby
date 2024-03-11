@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lorby</string>
+    <string name="welcome">Велком бэк!</string>
+    <string name="_login">Введи логин</string>
+    <string name="password">Введи пароль</string>
+    <string name="Login">Войти</string>
+    <string name="dontHaveAnAccaunt">У меня еще нет аккаунта</string>
+    <string name="name">Имя</string>
+    <string name="email">Введи адрес почты</string>
+    <string name="createPassword">Создай пароль</string>
+    <string name="repeatPassword">Повтори пароль</string>
+    <string name="next">Next</string>
+    <string name="done">Done</string>
+    <string name="resendOtp">Выслать код повторно</string>
+</resources>

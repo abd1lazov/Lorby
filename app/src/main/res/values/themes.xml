@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Lorby" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#E6989595</item>
+
+    </style>
+
+    <style name="Theme.Lorby" parent="Base.Theme.Lorby"/>
+</resources>
