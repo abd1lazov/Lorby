@@ -75,7 +75,7 @@
     </androidx.cardview.widget.CardView>
 
     <TextView
-        android:id="@+id/resendOtp"
+        android:id="@+id/tv_resendOtp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/resendOtp"
